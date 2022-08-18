@@ -1,0 +1,5 @@
+Comentar os seguintes defines dependendo da execução desejada:
+#define parte_um // para exibir a saída do algoritmo de escalonamento (hex) 
+#define parte_dois // para exibir a string criptografada e decriptografada e executar a função DES
+Apenas o primeiro irá fazer e exibir apenas o escalonamento,
+Apenas o segundo irá executar tudo porem sem exibir na tela o escalonamento.
